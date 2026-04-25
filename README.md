@@ -1,5 +1,5 @@
 # vivid/stasis 日本語化MOD
-Team Vividstasisよりリリースされているインディーゲーム『vivid/stasis』を日本語化するためのパッチです。
+Team Vividstasisよりリリースされているインディーゲーム『vivid/stasis』を日本語化するためのパッチです。<br>
 本MODはTeam Vividstasisより公式に許可を得て作成しています。
 
 ## 💾 インストール方法
